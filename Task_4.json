@@ -1,0 +1,72 @@
+{
+    "@context": "https://schema.org",
+    "@type": "Movie",
+    "url": "/title/tt1214961/",
+    "name": "Happy Days",
+    "image": "https://m.media-amazon.com/images/M/MV5BMTk1M2FjNjAtZGY3OS00ODllLWJiNGMtMGVhYjJmMGJjZDE2XkEyXkFqcGdeQXVyMjkxNzQ1NDI@._V1_.jpg",
+    "description": "A group of eight youngsters from an engineering college form an unbreakable friendship after going through various struggles.",
+    "review": {
+        "@type": "Review",
+        "itemReviewed": {
+            "@type": "CreativeWork",
+            "url": "/title/tt1214961/"
+        },
+        "author": {
+            "@type": "Person",
+            "name": "AvinashPatalay"
+        },
+        "dateCreated": "2008-07-06",
+        "inLanguage": "English",
+        "name": "Autobiographical with inspiration from Dil Chahta Hain &amp; Naa Autograph",
+        "reviewBody": "Instead of creating a story out of thin air, sometimes the easiest way out is to take inspiration from your own life incidents. Not doubting Mr. Kammula&apos;s capabilities, but I wouldn&apos;t be surprised to know if it was an autobiography or at least a semi. In fact it wouldn&apos;t be wrong to state that &quot;Happy Days&quot; is biography of everyone one of us.\n\nCharacterisation:: Keeping the long story short, every character you see in &quot;Happy Days&quot; will be identifiable with each one of our classmates. Ditto for situations, very true to life. It is very difficult to pin-point one single character or one situation which stand out \u0096 because &quot;Happy Days&quot; is fully-loaded.\n\nRomantic track:: The lead pair get the slice of the pie. And its all about KISS ie. Keeping it Simple Stupid! No mushy-mushy stuff or an ode&apos; to Maine Pyar Kiya (read that as &quot;over the top&quot;).\n\nThe songs are soothing and blend in with the story quite well. Screenplay is good and the editor has made good use of the scissors to keep the narrative engrossing. &quot;Happy Days&quot; is sound from all technical fronts. Without a doubt \u0096 Mr. Kammula, you hold the reigns well.\n\nThe success of &quot;Happy Days&quot; proves that the audience is yelling &quot;ENOUGH!!&quot; to the &quot;old wine in the new bottle&quot; intoxication techniques&apos;. Treading the path unknown, thinking out of the box, executing with passion and conviction are the new buzzwords which will eventually find its way \u0096 into the audience&apos;s heart.\n\nPS: CBIT never looked &quot;the enshrined temple&quot; of knowledge until now."
+    },
+    "aggregateRating": {
+        "@type": "AggregateRating",
+        "ratingCount": 5309,
+        "bestRating": 10,
+        "worstRating": 1,
+        "ratingValue": 7.9
+    },
+    "contentRating": "U",
+    "genre": [
+        "Drama"
+    ],
+    "datePublished": "2007-10-02",
+    "keywords": "cricket the sport,movie theater,low budget film,college,cell phone",
+    "actor": [
+        {
+            "@type": "Person",
+            "url": "/name/nm2967763/",
+            "name": "Varun Sandesh"
+        },
+        {
+            "@type": "Person",
+            "url": "/name/nm1961459/",
+            "name": "Tamannaah Bhatia"
+        },
+        {
+            "@type": "Person",
+            "url": "/name/nm2981100/",
+            "name": "Raahul"
+        }
+    ],
+    "director": [
+        {
+            "@type": "Person",
+            "url": "/name/nm2289322/",
+            "name": "Sekhar Kammula"
+        }
+    ],
+    "creator": [
+        {
+            "@type": "Organization",
+            "url": "/company/co0188147/"
+        },
+        {
+            "@type": "Person",
+            "url": "/name/nm2289322/",
+            "name": "Sekhar Kammula"
+        }
+    ],
+    "duration": "PT2H33M"
+}
