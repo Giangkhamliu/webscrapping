@@ -5,13 +5,10 @@ with open('Top_250_movies.json','r') as f:
     a=json.load(f)
 for i in a:
     url_list.append(i['link'])
-# b=url_list[:250]
-# print(b)
 list=[]
 for j in url_list:
     rel=requests.get(j)
     soup=BeautifulSoup(rel.text,"html.parser")
-    # soup=BeautifulSoup(rel.content,"html.parser")
     con=soup.find('script',type='application/ld+json').text
     h=json.loads(con)
     dic={}
